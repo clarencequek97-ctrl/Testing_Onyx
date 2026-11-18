@@ -7,3 +7,5 @@ for i in range(a):
     if i <= a:
         print(a)
         a+=5
+
+print("alls good bro thank you")
