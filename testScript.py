@@ -6,4 +6,4 @@ listy = ""
 for i in range(a):
     if i <= a:
         print(a)
-        a+=3
+        a+=5
